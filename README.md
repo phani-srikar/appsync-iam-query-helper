@@ -1,0 +1,1 @@
+# appsync-iam-query-helper

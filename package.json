@@ -1,4 +1,7 @@
 {
+  "name": "appsync-iam-query-helper",
+  "version": "0.1.0",
+  "private": true,
   "devDependencies": {
     "typescript": "^5.4.5"
   },

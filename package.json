@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "^3.556.0",
+    "@types/node": "^20.12.7",
+    "aws-amplify": "^4.2.8",
+    "aws-appsync": "^4.1.10",
+    "aws-sdk": "^2.1603.0",
+    "dotenv": "^16.4.5",
+    "graphql-tag": "^2.12.6"
+  }
+}
